@@ -1,4 +1,4 @@
-
+premium AirVPN Extension | IKEv2-support + dedicated-IP is the best AirVPN extension, featuring IKEv2-support and dedicated-IP. Secure, fast, and optimized for privacy.
 
 
 
